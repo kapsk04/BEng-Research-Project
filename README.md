@@ -12,4 +12,4 @@ This repository contains the code used for my project on AI-enabled automatic re
 
 ## Note
 
-This repository contains code only.
+This repository contains code only. Clinical imaging data are not included for privacy and data protection reasons.
